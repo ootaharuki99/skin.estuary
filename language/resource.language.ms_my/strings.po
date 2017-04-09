@@ -1,6 +1,6 @@
 # Kodi Media Center language file
 # Addon Name: Estuary
-# Addon id: skin.estuary
+# Addon id: skin.estuary-japanese
 # Addon Provider: phil65, Piers
 msgid ""
 msgstr ""
